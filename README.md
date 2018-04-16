@@ -1,2 +1,2 @@
-# nlp-using-word-vectors
+# nlp using word vectors
 Code resources for meetup
